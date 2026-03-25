@@ -96,11 +96,20 @@ contract PasswordlessAuthDemo {
 # Expected Output:
 Users can register without a password.
 
+<img width="1919" height="1101" alt="image" src="https://github.com/user-attachments/assets/5cd038b4-4c2c-428e-9921-20de440070c2" />
+
+
 
 Users sign a challenge with their private key for authentication.
 
+<img width="1919" height="1100" alt="image" src="https://github.com/user-attachments/assets/542af286-0512-40fe-bfbc-43ef032297e7" />
+
+
 
 The smart contract verifies signatures to confirm identity.
+
+<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/faecd352-1c9d-412a-a95c-ea7500773ca1" />
+
 
 
 
